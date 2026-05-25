@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "youtrack": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with", "mcp",
+        "--with", "keyring",
+        "${CLAUDE_PLUGIN_ROOT}/servers/youtrack_server.py"
+      ]
+    }
+  }
+}

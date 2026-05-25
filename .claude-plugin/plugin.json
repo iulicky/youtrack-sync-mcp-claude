@@ -1,0 +1,9 @@
+{
+  "name": "youtrack-sync",
+  "version": "0.3.0",
+  "description": "Bidirectional sync between local Markdown files and YouTrack Knowledge Base articles, plus basic Issue operations (create, update state/assignee, add comments).",
+  "author": {
+    "name": "IAM Consulting"
+  },
+  "license": "MIT"
+}

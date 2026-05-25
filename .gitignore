@@ -1,0 +1,23 @@
+# Credentials — never commit
+.youtrack.json
+*.token
+
+# Local backups created by the plugin
+*.bak
+*.*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
